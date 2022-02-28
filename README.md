@@ -15,3 +15,5 @@ the page to display with github
   
 I will now remove the commented out CSS rules since I've made sure they're not necessary but I think this satisfies
 all of the criteria set out in the challenge.
+
+![2022-02-28](https://user-images.githubusercontent.com/74988217/156046030-5f63e16f-6aeb-42c1-8e1f-dc5722c44c7c.png)
