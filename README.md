@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 I started by reviewing the provided code and the assignment prompts.
 
-I edited the CSS file first based on the html document I determined that there were more concise ways to make the CSS declarations
+I edited the CSS file first based on the html document, I determined that there were more concise ways to make the CSS declarations
 in order to remove redundant sections.
 
 After that I fixed the broken link in the html file for the search-engine-optimization <div>.
